@@ -1,0 +1,102 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "breed": "Poodle",
+      "customerId": 1,
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "breed": "Blue Heeler",
+      "customerId": 2,
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Rocky",
+      "breed": "Chiuahua",
+      "customerId": 3,
+      "locationId": 2
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Hannah Hall",
+      "address": "7002 Chestnut Ct"
+    },
+    {
+      "id": 2,
+      "name": "Arturo Trent",
+      "address": "943 Maple St"
+    },
+    {
+      "id": 3,
+      "name": "Steven Joy",
+      "address": "872 Cheddar Ave"
+    },
+    {
+      "email": "lcluischavezz@gmail.com",
+      "password": "123",
+      "name": "Luis Chavez",
+      "id": 4
+    },
+    {
+      "email": "test@test.com",
+      "password": "123",
+      "name": "l c",
+      "id": 5
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Tyler Davis",
+      "job": "Cash",
+      "locationId": 1
+    },
+    {
+      "id": 2,
+      "name": "Wesley Waters",
+      "job": "Cash",
+      "locationId": 1
+    },
+    {
+      "id": 3,
+      "name": "Case Scally",
+      "job": "Cash",
+      "locationId": 2
+    },
+    {
+      "id": 4,
+      "name": "Philip David",
+      "job": "Cash",
+      "locationId": 2
+    },
+    {
+      "name": "John Stone",
+      "locationId": 1,
+      "id": 5
+    },
+    {
+      "name": "Thomas Crane",
+      "locationId": 2,
+      "id": 6
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "8422 Johnson Pike"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "209 Emory Drive"
+    }
+  ]
+}
